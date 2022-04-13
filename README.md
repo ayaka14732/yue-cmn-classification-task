@@ -1,6 +1,12 @@
-# Cantonese/Mandarin Classify Task
+# Cantonese/Mandarin Classification Task
 
 The aim of this task is to classify texts into Cantonese and Mandarin. It is extremely useful for filtering Cantonese text from large-scale web crawling-based corpus.
+
+## Test
+
+```sh
+python compute_accuracy.py output.txt
+```
 
 ## Source
 
